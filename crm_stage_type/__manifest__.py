@@ -1,10 +1,10 @@
 # Copyright 2018 Eficent Business and IT Consulting Services, S.L.
-# License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
+# License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl.html).
 
 {
     "name": "CRM Stage Type",
     "summary": "Add type in the lead and opportunity stages",
-    "version": "12.0.1.0.0",
+    "version": "12.0.1.1.1",
     "category": "CRM",
     "website": "https://github.com/OCA/crm",
     "author": "Eficent, "
